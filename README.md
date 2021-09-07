@@ -1,2 +1,2 @@
-# homepage.github.io
+# homepage
 My personal homepage
